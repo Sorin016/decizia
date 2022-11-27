@@ -4,4 +4,5 @@ public stativ void main(String... args)
 System.out.println("hello world");
 
 System.out.println("hello world342");
+System.out.println("hello world342");
 }}
